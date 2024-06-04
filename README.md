@@ -1,4 +1,7 @@
-### Hi there 👋
+### Olá, seja bem vindo ao meu repositório, repleto de nada 👋 <:
+
+Aqui posto alguns projetos publicamente, para desmonstrar a minha evolução.
+Fique a vontade á opinar sobre meus repo e deixar fedback e dicas, qualquer ajuda serei grato 
 
 <!--
 **Kachi1001/Kachi1001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
